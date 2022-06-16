@@ -5,7 +5,7 @@ view live: https://gabrielrenard.github.io/Cinema-Seat-Booking/
 
 ### This project was build using Vanilla JS, CSS and HTML.
 
-###What I Learnt:
+### What I Learnt:
 - Change data dynamically
 - Save data to local storage
 - CSS styling
